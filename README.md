@@ -1,17 +1,15 @@
 <p align="center">
     <img src="images/lab_logo.png"> <br> <br> 
- 
     Lowe Power Lab <br><br> 
-
-    Lab Handbook
-</p>
+    <b>Lab Handbook</b>
+ </p>
 
 (Eventually we'll learn how to automatically generate a table of contents here)
 
 # 1. Welcome
 You've recently joined the Lowe-Power lab in UC Davis's department of Plant Pathology. We're excited to have you as part of the team!  We look forward to working with you to advance scientific knowledge and making your time in the lab productive and enjoyable. We hope that you'll learn a lot about bacteriology and plant pathology, develop new skills (wetlab, data analysis, writing, presenting), make new colleagues and friends, and enjoy the process while getting to the finishing line. 
 
-This lab manual was inspired by many others and it borrows heavily from them (including [Aly lab](https://github.com/alylab/labmanual), [Glaunsinger lab](https://glaunsingerlab.berkeley.edu/), [Mo Kaze](https://twitter.com/mokrobial)). It's a work in progress.  If you have ideas on content to add, items to clarify, talk to me (Tiffany, the PI). 
+This lab manual was inspired by many others and sections borrow heavily from them (including [Aly lab](https://github.com/alylab/labmanual), [Glaunsinger lab](https://glaunsingerlab.berkeley.edu/), [Mo Kaze](https://twitter.com/mokrobial)). It's a work in progress.  If you have ideas on content to add, items to clarify, talk to me (Tiffany, the PI). 
 
 This lab handbook is licensed under a [Creative Commons Attribution - NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). If you’re a PI or a trainee in a different lab and want to write your own lab handbook, feel free to take inspiration from this one (and cite us!).
 
