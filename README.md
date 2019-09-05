@@ -1,11 +1,10 @@
-<center> 
-
-![Lab Logo](images/lab_logo.png)
+<p align="center">
+    <img src="images/lab_logo.png"> <br> <br> 
  
- Lowe Power Lab
+    Lowe Power Lab <br><br> 
 
- Lab Handbook
-</center>
+    Lab Handbook
+</p>
 
 (Eventually we'll learn how to automatically generate a table of contents here)
 
