@@ -9,7 +9,7 @@
 # 1. Welcome
 You've recently joined the Lowe-Power lab in UC Davis's department of Plant Pathology. We're excited to have you as part of the team!  We look forward to working with you to advance scientific knowledge and making your time in the lab productive and enjoyable. We hope that you'll learn a lot about bacteriology and plant pathology, develop new skills (wetlab, data analysis, writing, presenting), make new colleagues and friends, and enjoy the process while getting to the finishing line. 
 
-This lab manual was inspired by many others and sections borrow heavily from them (including [Aly lab](https://github.com/alylab/labmanual), [Glaunsinger lab](https://glaunsingerlab.berkeley.edu/), [Mo Kaze](https://twitter.com/mokrobial)). It's a work in progress.  If you have ideas on content to add, items to clarify, talk to me (Tiffany, the PI). 
+This lab manual was inspired by many others and sections borrow heavily from them (including [Aly lab](https://github.com/alylab/labmanual), [Glaunsinger lab](https://glaunsingerlab.berkeley.edu/), [Thrash lab](https://thethrashlab.files.wordpress.com/2013/08/thrash_lab_personnel_expectations.pdf), [Mo Kaze](https://twitter.com/mokrobial)). It's a work in progress.  If you have ideas on content to add, items to clarify, talk to me (Tiffany, the PI). 
 
 This lab handbook is licensed under a [Creative Commons Attribution - NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). If you’re a PI or a trainee in a different lab and want to write your own lab handbook, feel free to take inspiration from this one (and cite us!).
 
@@ -76,6 +76,8 @@ I think a very important part of my job as a professor is to train and advise st
 
 ✔ **Remember that all of us are “new” at many points in our careers.** If you feel uncertain, overwhelmed, or want additional support, please overtly ask for it. I welcome these conversations and view them as necessary. Build community within the lab and reinforce this philosophy with new and existing lab members
 
+✔ **Include Tiffany on all communications regarding your any lab research (yours or others).** This includes cc'ing me on emails and making me aware of any conversations outside of email.  Basic research inherently is a competitive environment. We will be open about our work among colleagues, but we need to be mindful about what we share, when we share it, and with whom we share it. If you are unsure of what level of detail you can describe to whom, please ask me about it in advance. 
+
 ✔ **Let me know the style of communication or schedule of meetings that you prefer.** If there is something about my mentoring style that is proving difficult for you, please tell me so that you give me an opportunity to find an approach that works for you. No single style works for everyone; no one style is expected to work all the time. Do not skip meetings with me if you feel that you have not made adequate progress on your research; these might be the most critical times to meet.
 
 ✔ **Communicate your data with integrity.** It is never okay to plagiarize, tamper with data, make up data, omit data, or otherwise fudge results.  We don't generate data to prove our favorite hypothesis.  We perform science to find out the truth by forming testable hypotheses and rigorously and critically testing them. 
@@ -108,32 +110,40 @@ In addition to the expectations above, you are expected to
 * Apply for grants (USDA NIFA, NSF, LSRF, or others). Although I will only hire you if I can support you for at least one year (and ideally 2 years), it is in your best interest to get independent funding.  Even if you don't get funded, grant writing provides you motivation to formalize your research ideas and solicit feedback. 
 * Apply for jobs (academic or non-academic) when you are ready, but no later than the beginning of your 4th year of post-doc.  
 * Challenge me (Tiffany) when I am wrong, when you have a difference of opinion, and share your expertise with the lab. 
-* Contribute to lab management duties (Tiffany will divide duties equitably) when we do not have a full-time lab manager
+* Contribute to lab chores (Tiffany will divide duties equitably) when we do not have a full-time lab manager
+* Represent the lab with pride and integrity, and show respect for others.  You are now an ambassador for the lab as well as a member.  Our reputation will be partially formed by how you interact with other colleauges. 
 
 ## 2.4. Graduate Students
 In addition to the expectations above, you are expected to
 
-* Develop your dissertation research. Your dissertation should have at least 2 substantial products (papers) that address an important scientific question.  Much of the work must be completed independently (even if it is collaborative), but others in the lab are available to help you.
+* Generally maintain a positive, solution-oriented attitude
+* Cultivate your curiosity about the work you do and think creatively
+* Actively participate in all laboratory group functions
+* Be responsible for your own productivity and schedule, and maintain flexibility in your schedule during emergencies and crunch times.
+    * Prioritize time for research.  Coursework and TAing are important, but ultimately your research gets you your PhD and prepares you for the next stage of your career.  
+* Develop your dissertation research with my input. Your dissertation should have at least 2 substantial products (papers) that address an important scientific question.  Much of the work must be completed independently (even if it is collaborative), but others in the lab are available to help you.
 * Identify portions of your research that can be delegated to undergraduate researchers on a mentored research projects. I (Tiffany) will help you recruit motivated undergraduates to work with you.
-* Apply for grants (NSF GRFP, USDA NIFA, etc). Even if you don't get funded, grant writing provides you motivation to formalize your research ideas and solicit feedback. 
-* Prioritize time for research.  Coursework and TAing are important, but ultimately your research gets you your PhD and prepares you for the next stage of your career.  
+* Apply for fellowships/grants at every eligible opportunity (NSF GRFP, USDA NIFA, etc). Even if you don't get funded, grant writing provides you motivation to formalize your research ideas and solicit feedback. 
 * Grow to be the expert in your domain.  Challenge me (Tiffany) when I am wrong. 
-* Contribute to lab management duties (Tiffany will divide duties equitably) when we do not have a full-time lab manager.
-
-## 2.5. Lab Managers
-
-In addition to the expectations above, you are expected to
-* Work on your own research project.
-* Help new lab members adjust to the lab by answering questions. 
-* Maintain safety protocols and records. 
-* Oversee the hiring, scheduling, and training of undergraduate research assistants
-* Maintain the lab website, lab wiki, lab GitHub, & lab calendars
+* Contribute to lab chores (Tiffany will divide duties equitably) when we do not have a full-time lab manager.
+* Represent the lab with pride and integrity, and show respect for others.  You are now an abassador for the lab as well as a member. Our reputation will be partially formed by how you interact with our colleagues. 
 
 ## 2.6. Undergraduate Students
-In addition to the expectations above, you are expected to
-* Work with your mentor(s) to collect data, analyze data, and design experiments. 
-* Contribute to lab chores (making media, sterilizing tips, cleaning work areas)
-* Develop your weekly schedule and communicate it with your mentor.
+As an undergraduate in the Lowe-Power lab, your first priority is school.  We are happy to have you and excited for your to progress in your experimental skills, but your degree responsibilities come first.  The lab supports your efforts to succeed scholastically at UC Davis, and working in the lab should enhance those efforts, not detract from them.  If you can be successful in school AND have time to work in the lab, while you are here you are expected to:
+
+* Generally maintain a positive, solution-oriented attitude
+* Ask questions. Cultivate your curiosity about what you're working on, why you're being taught something, how what you're doing fits into the larger picture, and make sure you've cleared up any confusion about a task *before* beginning. 
+* Maintain and treat all lab equipment with care
+* Actively participate in whatever laboratory group functions you can attend. 
+* Adhere to the agreed upon schedule of work hours, and be available and willing to work beyond it in emergencies except,
+    * If scheduling conflicts arise. In this case, be proactive and communicate effectively with me and other depending on you.
+* Remain focused an task-oriented while working (e.g. avoid cell-phones, social media, and other distractions)
+* Maintain a legible, organized, and fully-updated lab notebook in OneNote.
+* Look for and submit fellowship/scholarship applications to receive funding. 
+* Include Tiffany and your mentor on all communications regarding lab research (yours and others'). Basic research can be a competitive environment, so we ask that you are thoughtful about what details you share about our work.  If you are unsure of what you can share and with whom, please ask your mentor or Tiffany. 
+* Represent the lab with pride and integrity, and show respect for others.  You are now an ambassador for the lab as well as a member.  Our reputation will be partially formed by how you interact with other colleauges. 
+* Contribute to lab chores (making media, sterilizing tips, cleaning work areas).
+* Have fun and get excited about contributing to new discoveries about life!
 
 # 3. Code of Conduct
 
@@ -254,23 +264,21 @@ You can request read (part-time labbies) and edit (full-time labbies) access to 
 
 ## 4.8. Inventories
 
-## 4.9. E-mail
+XXX add info
 
 # 5. General Policies
 
 ## 5.1. Hours
 
-The main gist is -- the specific hours worked don't matter as much as whether you are being personally productive (~90% effort) & promoting lab community (~10% effort) by supporting your labmates.
+The main gist is -- the specific hours worked don't matter as much as whether you are being personally productive & promoting lab community by supporting your labmates.
 
-I expect that everyone meets a minimum of time in lab of 8 hours/day, 5 days/week. While there is considerable flexibility in academia, I encourage you to generally aim to be on campus/in lab for M-F for +/- 9 am - 5 pm. If this doesn't work for you because of outside commitments or other reasons, please feel free talk to me. 
+I expect that everyone meets a minimum of 40 working hours.  While there is considerable flexibility in academia, I encourage you to generally aim to be on campus/in lab for M-F for +/- 9 am - 5 pm. If this doesn't work for you because of outside commitments or other reasons, please feel free talk to me. However, you are responsible for setting your own schedule and being productive with your time. I ask you to be willing to work weekends and evenings when necessary.  During emergencies or crunch times, I ask you to be flexible, available, and willing to work beyond your personal schedule. 
 
-I expect that you will take vacation and that you may need to adjust your work hours for deadlines or because you need a break. Please notify me (and fellow lab members) in advance of planned absences using the lab calendar. I believe that work-life balance and vacation time are essential for creative thinking and good health, but it helps if everyone knows if you will be absent. If you are unexpectedly unable to come to lab, or will be *unusually* late please let me know as I will likely worry otherwise.
+Being physically present in lab is helpful for learning from others, supporting others, building community, and having fast and easy access to resources/people that you need.  It also removes some of the distractions of your home (e.g. Netflix, your cats, and all the cleaning you could accomplish instead of writing).  However if you're in a writing-intensive portion of research (Grants, manuscripts, etc.), and you're more productive in a coffee shop/library/back porch, then you-do-you.  Even still, try to at least have some face-time in lab/office every day. Slack can help, but a real conversation is often more efficient/effective.  
 
-Being physically present in lab is helpful for learning from others, supporting others, building community, and having fast and easy access to resources/people that you need.  It also removes some of the distractions of your home (e.g. Netflix, your cats, and all the cleaning you could accomplish instead of writing).  However if you're prepping for quals, pounding out a manuscript, or deeply working on data analysis and you're more productive in a coffee shop/library/back porch, then you-do-you.  Try to at least have some face-time in lab every day incase a labmate needs your help (Slack can help, but a real conversation is often more efficient/effective).  
-
-If you have significant out-of-office/lab obligations, clear them with me. To help your labmates know when they can get your help in lab, consider using your personal Google Calendar the way I do: [Share a free/busy link to your calendar in your email signature](tinyurl.com/tlp-avail). 
-
-Finally, keep in mind that our experiments of involve growing and maintaining plants, which means you will often have to pop by the growth chamber to water plants on the weekend or exchange lab favors with a labmate to cover your plants for you. 
+**Absences/Vacation.** I expect that you will take vacation and that you may need to adjust your work hours for deadlines or because you need a break. Please notify me (and fellow lab members) in advance of planned absences using the lab calendar (LowePowerLab - Travel). I believe that work-life balance and vacation time are essential for creative thinking and good health, but it helps if everyone knows if you will be absent. If you are unexpectedly unable to come to lab, or will be *unusually* late please let me know as I will likely worry otherwise.
+* If you have significant out-of-office/lab obligations, clear them with me. To help your labmates know when they can get your help in lab, consider using your personal Google Calendar the way I do: [Share a free/busy link to your calendar in your email signature](tinyurl.com/tlp-avail). 
+* Finally, keep in mind that our experiments of involve growing and maintaining plants, which means you will often have to pop by the growth chamber to water plants on the weekend or exchange lab favors with a labmate to cover your plants for you. **You are responsible for asking labmates to cover your work and providing them clear instructions to complete it accurately**
 
 **Evening/Weekend Emails/Slacks**. Respect your labmates work-life balance.  While we're all free to send messages in the evenings/weekends, we are under no obligation to respond to them unless there is a *rare* emergency or deadline. If these crunch times can be anticipated, I will try to coordinate this in advance with you. All this said, I realize that being told you can ignore my messages might not take away the stress of *seeing* my messages if you check your email/Slack in the evenings/weekends.  If my off-hours messages are unwelcome and cause distress, please talk to me, and I will work to not bother you during your off time. 
 
@@ -315,7 +323,7 @@ If you are the presenter
 
 **Changing the lab meeting schedule**.  If a conflict arises and you cannot meet your presenter obligations (or if you want to move your slot to align with an ideal *practice talk* time), identify a labmate who is willing to switch days with you. Edit the schedule in the Google Doc and notify the lab of the change via Slack (linking the doc).  
 
-### 5.3.2. -on-1 Meetings
+### 5.3.2. 1-on-1 Meetings
 Meetings with Tiffany & Full-time labbies. 
 
 [**Essential Reading**: What to bring to a meeting with your advisor](http://www.avasthilab.org/2017/03/14/what-to-bring-to-a-meeting-with-your-advisor/). I expect you will come to the meeting with your primary data labeled and organized. Make sure that you also use this time to communicate new ideas that you have about your work and challenges that you are facing.
@@ -346,10 +354,22 @@ If you want feedback on research proposals/statements, teaching statements, or o
 
 When communicating important hard deadlines with Tiffany, send an organized email that uses formatting (judicious bolding) to convey key points: (1) Deadline, (2) What is needed from Tiffany, (3) Key information that Tiffany needs to do the job well. Consider this practice for any form of professional communication -- grantsmanship, managing a team, managing your manager. It's a transferable skill that will take you far in your career. 
 
-### 5.4.2. Soliciting Feedback, Help, Support
+## 5.5. Communication 
+
+### General
+### 5.5.1. Soliciting Feedback, Help, Support
 Recognize that there is a flexible but finite amount of time/effort that Tiffany/each labmate/mentor can devote to helping you on any given task. Prioritize what your needs appropriately so that you expend those resources on tasks you that you need help with. This will change depending on your current skills/expertise how (over)committed the mentor is. Don't be afraid to ask for help, but be thoughtful about asking for help in a way that makes it straightforward for someone to help you. 
 
 **Asking for Support**. Be thoughtful when interrupting the workflow of your lab mates / mentors. I apologize if the suggestions below seem obvious or condescending, but everyone doesn't enter the lab with the same awareness. 
+
+**Recommended workflow for dealing with research challenges**
+1. Sit down and think about solutions yourself.
+1. Look for answers in the peer-reviewed literature, manufacturer's manuals, or online communities (e.g. ResearchGate or Labrats Subreddit). Be thoughtful about how much of your results you share on the internet before publishing. 
+1. Solicit advice from fellow lab-mates
+1. Seek advice of the PI. I'm always happy to discuss issues, but it's in all of our best interests if you work on the problem yourself. *Teach yourself to fish.*
+1. If we're still struggling, we'll go outside of the lab for advice. 
+
+Additional considerations:
 * If it's an emergency, always interrupt. 
 * If they are pipetting/ concentrating, first observe them and make a judgement about whether they can find a pause point to answer your question. 
     * Will there be a safety issue if you distract them? Are they working on something delicate e.g. RNA? Are they particularly stressed looking. *Don't interrupt them unless your needs are important*
@@ -363,7 +383,7 @@ Recognize that there is a flexible but finite amount of time/effort that Tiffany
 * It helps you build soft skills that will improve your professional work no matter your career path.
 If a labmate's approach to asking for your support is not effective for you. Kindly communicate better ways for them to work with you. 
 
-## 5.5. Presentations
+### 5.6. Presentations
 
 Learning to present your research is important. Very few people will read your papers carefully (sad, but true) but you can reach a lot of people at conference talks and posters. Also, if you plan on staying in academia, getting a post-doc position and getting a faculty position both significantly depend on your ability to present your data. Even if you want to leave academia, presentations are likely to be an important part of your job. Additionally, every time you present your work, you are representing not just yourself but the entire lab.
 
@@ -373,7 +393,7 @@ It is therefore highly encouraged that you seek out opportunities to present you
 
 **Talks**. Tiffany's advice for designing slides for a talk are [available in this GitHub Repo](files/ppt_illustrator_tips_for_visual_presentations.pptx). When deciding what to present in a talk and what to say about it, aim to *teach your science*.  Even the smartest audience cannot follow your data unless you explain it to them.  Walk them through the key methods. Walk them through the data visualization -- what are the axes?  Then tell them how to interpret the data. This makes sure they understand the information.  Use repetition.  Start the talk with the major question / Aims.  Provide background information that prepares the audience to understand your approach to answering that question. Walk them through the approach and data.  Recap with the major question and what your data says about the topic.  
 
-## 5.6. Recommendation Letters
+## 5.7. Recommendation Letters
 
 Letters of recommendation are extremely important for getting new positions and grants. You can count on Tiffany to write you a letter if you have been in the lab at least one year (it’s hard to really know someone if they have only been around for a few months). Exceptions can be made if students or post-docs are applying for fellowships shortly after starting in the lab.
 
@@ -381,9 +401,9 @@ If you need a letter, notify Tiffany as soon as possible with the deadline (see 
 
 Tiffany will ask postdoc/graduate mentors to co-write letters of recommendation for undergraduate researchers with whom the supervise.  This is professional training for the mentor and will help the letter be stronger and detailed. [Train yourself to minimize implicit bias in your letters.](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters)
 
-## 5.7. Data Management
+## 5.8. Data Management
 
-### 5.7.1. Electronic lab notebook
+### 5.8.1. Electronic lab notebook
  
 **Lab Notebooks** are property of the lab and will digital and be backed up regularly (Bonus--you can keep a copy to use as a reference when you leave the lab!).
 * If you make scratch paper notes, take photos & attach it to your notebook.  Same with scratch calculations in excel -- screenshots. If you are transitioning from a paper labnotebook, you can also use photos --> Electronic lab notebook as an interim solution. 
@@ -397,22 +417,22 @@ Tiffany will ask postdoc/graduate mentors to co-write letters of recommendation 
 * I recommend reading [A quick guide for using Microsoft OneNote as an electronic laboratory notebook](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006918). Consider using keywords and tags in your notebooks because OneNote's search is pretty powerful. 
 * While you are transitioning from a paper-lab notebook & when you need to take paper notes -- feel free to take photographs of your notes/notebook pages & embed them into OneNote pages. The phone app is pretty great for doing this. 
 
-### 5.7.2. Strain lists
+### 5.8.2. Strain lists
 **Work-In Progress strains/plasmids** should be kept in personal freezer boxes, which is a short-to-medium term storage. 
 
 **Core Strain inventory**. Once validated I expect strains & plasmids to be added to the core strain inventory (detailed in the ["Glycerol stocks" lab protocol](https://github.com/lowepowerlab/protocols/blob/master/glycerol_stocks.md)). All validated plasmids should be added to a core folder on the lab's Benchling account. 
     * I encourage everyone to do monthly audits of their strains and make sure any confirmed strains are moved to the permanent collection & incorrect strains are put in biohazard waste. 
 
-### 5.7.3. Protocols
+### 5.8.3. Protocols
 **Lab protocols** are hosted on Github: https://github.com/lowepowerlab/protocols. 
     * Create a Github account for yourself and apply for an [academic account](https://help.github.com/en/articles/applying-for-an-educator-or-researcher-discount) to have the option of private repositories. I expect all repositories to be shared within the lab and any validated data or protocol to eventually be publicly published and shared with the scientific community. 
     * As we optimize/improve/change protocols, please commit updates to the shared lab protocols, and list yourself as a contributer. 
     * Github allows us to have version control on protocols, so it's possible to retrieve previous versions of protocols. 
 
-## 5.8. Google Drive
+## 5.9. Google Drive
 UC Davis pays for google services accounts.  We have a "Team Drive" called the "Lowe-Power Lab Drive".  Make sure you are added to this.  This is where we keep documents that all users will want to view (and most will want to edit). *Note, This might turn out to be a non-ideal solution. It's possible it will be hard to share specific files with outside collaborators. It might be an all-or-none option for sharing. 
 
-## 5.9. Managing the Literature 
+## 5.10. Managing the Literature 
 
 **RSS Feeds**.  Use PubMed digests, Google Scholar alerts, or another method to keep up with the literature that is relevant to your project. 
 

@@ -8,33 +8,38 @@ As a new member in the lab, please contribute to this document to help streamlin
 
 ## Expectations
 
+I expect everyone to maintain positive, solution-oriented attitudes and approach their work with curiosity, creativity, and hard work.  
+
 Familiarize yourself with the [lab handbook](lab_handbook.md). You don't have to remember all of the details. But you should read it carefully at least once.  And then go back to re-read specific sections when it is appropriate. It is a single document to make it easy to Ctrl+F Search. 
- To finish:
 
 ## Required Training
 
 In addition to the safety training here, please follow the safety best practices in lab protocols, and work to identify hazards and work safely around them. 
 
+http://plantpathology.ucdavis.edu/safety.cfm
+
 UCD **Online safety training** through (LMS)[https://lms.ucdavis.edu/] aka UC Learning Center. Look for the courses below in `Required Training`. If you do not see them, use the `Find A Course` search. If all else fails, email the plant pathology Safety guru Andy Ross (abross@ucdavis.edu) to request the training and copy Tiffany. These trainings are long, but that is because they cover safety in sufficient detail to be useful. Although it's technically possible to "test out" of the training with the quiz, I expect you to watch the videos in full with your full attention and then completing the quiz. 
 
-    1. eCourse:UC Laboratory Safety Fundamentals (Initial Training)
-    1. eCourse:UC Laboratory Safety Fundamentals Refresher  
-    1. eCourse:Cryogen Safety 
-    1. Proper Handling of Materials at Biosafety Level 1 
-    1. UC DAVIS BIOSAFETY LEVEL 2 ONLINE TRAINING
-    1. Safe Use of Biological Safety Cabinets
+1. eCourse:UC Laboratory Safety Fundamentals (Initial Training)
+1. eCourse:UC Laboratory Safety Fundamentals Refresher  
+1. eCourse:Cryogen Safety 
+1. Proper Handling of Materials at Biosafety Level 1 
+1. UC DAVIS BIOSAFETY LEVEL 2 ONLINE TRAINING
+1. Safe Use of Biological Safety Cabinets
 
 **Department Safety Training**. Navigate to to the Department's Safety website. Familiarize yourself with the contents.  Review and sign the following documents (XXX Note: We need to clarify with Andy Ross how to Read/sign these since we aren't required to keep paper copies)
-    * Injury and Illness Prevention Program (IIPP)
-    * Emergency Action Plan (EAP)
+* Injury and Illness Prevention Program (IIPP)
+* Emergency Action Plan (EAP)
 
 **Lab-Specific Safety Training**. Before experiments begin in the lab, you'll need to go through the initial safety training with the lab's safety coordinator. 
 
-## Integrating into the team
-- Add yourself to the [Lab Contact Sheet](https://cutt.ly/lpl_contact)
-- Once you create a slack account, introduce yourself in the **#general** channel. 
-- Add yourself to the lab website
-- If you get access before your start-date, add your "first day of work" to the lab-events calendar.  This way everyone greats you. :)
+**Safety questions**.  It is important to identify safety risks and work with Tiffany, labmates, and EH&S to identify safe ways to proceed. Bring up all safety concerns on the lab's Slack (**#safety** channel) to open a discussion. Public discussion will help your labmates also adopt safety best-practices.
+
+**Lab-safe clothing**. Make sure you have appropriate attire:
+* **Shoes**: closed-toe, closed heel. Non-absorbant material is *strongly* recommended. 
+    * Need inspiration for smart-looking shoes that are also lab safe? Check out online communities: [1](https://www.reddit.com/r/femalefashionadvice/search?q=lab+shoes&restrict_sr=on&sort=relevance&t=all) and [2](https://www.reddit.com/r/malefashionadvice/search?q=lab+shoes&restrict_sr=on&sort=relevance&t=all). 
+* **Pants / other bottoms**: Between tall socks, leggings, or pants, you'll need to ensure you don't have skin exposed. 
+* General considerations: Avoid clothing that is too drapey & could fall into a bunsen burner / beaker of bacteria / etc. (Especially trendy sleeves on shirts).
 
 # Misc.
 
@@ -69,3 +74,9 @@ You will be paired with a mentor. The mentor will usually be a current graduate 
 # Postdoc-specific information
 
 # Junior Specialist-specific information
+
+
+
+# IT related
+
+* To use the Ethernet connections on your computer, you'll have to send the MAC address of your computer to the Phoenix Cluster IT team
