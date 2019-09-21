@@ -128,7 +128,7 @@ In addition to the expectations above, you are expected to
 * Contribute to lab chores (Tiffany will divide duties equitably) when we do not have a full-time lab manager.
 * Represent the lab with pride and integrity, and show respect for others.  You are now an abassador for the lab as well as a member. Our reputation will be partially formed by how you interact with our colleagues. 
 
-## 2.6. Undergraduate Students
+## 2.5. Undergraduate Students
 As an undergraduate in the Lowe-Power lab, your first priority is school.  We are happy to have you and excited for your to progress in your experimental skills, but your degree responsibilities come first.  The lab supports your efforts to succeed scholastically at UC Davis, and working in the lab should enhance those efforts, not detract from them.  If you can be successful in school AND have time to work in the lab, while you are here you are expected to:
 
 * Generally maintain a positive, solution-oriented attitude
@@ -186,15 +186,14 @@ You will use your @ucdavis.edu account to access a lot of services at Davis (ema
 If there's an emergency, and Tiffany isn't responding on Slack, email her.  If it's a very urgent emergency (lab accident, -70 freezer meltdown, etc), call 911 or [Tiffany's Cell Phone](https://cutt.ly/lpl_contact). 
 
 **Purposes of Channels**
+* **# safety**:
+    * A place to discuss safety: Identify hazards, ask safety related questions, share safety information & advice!
 * **# wall_of_failure**: 
     1. Seek troubleshooting advice, especially for lab-specific technical questions.  For general molecular biology/genetics, also consider the [labrats subreddit](reddit.com/r/labrats) or [ResearchGate](Researchgate.com).  ResearchGate seems better for searching old discussions & labrats is better for active discussion. 
     1. Poke fun at your own failures.  Failure is an essential part of research, but it is easy to forget that when reading scientific papers / listening to seminars that are the culmination of a lot of failure that eventually led to success.  To bolster our lab against **imposter syndrome**, I encourage everyone to acknowledge failures. 
 * **# data_sharing**: 
     * The reciprocal of **# wall_of_failure**.  Celebrate your exiting data!  Also, provide feedback to each other on data visualization. 
-* **# safety**:
-    * A place to discuss safety: Identify hazards, ask safety related questions, share safety information & advice!
-* **# announcements**:
-    * The lab calendars will automatically post daily and weekly summaries of lab events here. 
+
 * **# general**:
     * Post lab business here: new resources, etc.
 * **# ordering**:
@@ -206,6 +205,10 @@ If there's an emergency, and Tiffany isn't responding on Slack, email her.  If i
 * **#journal_club**:
     * Organizing journal club
     * Posting paper (1 week before the JC)
+* **# announcements**:
+    * The lab calendars will automatically post daily and weekly summaries of lab events here. 
+* **# undergrad_tech**:
+    * A place for the team to communicate with undergraduates with technician / student asst responsibilities. A "slackBot" will be configured to post the 
  
 Some of the resources I share on slack will be Tweets.  Even if you don't want to use Twitter professionally, I recommend making a private account so you can easily view these. 
 
@@ -357,8 +360,8 @@ When communicating important hard deadlines with Tiffany, send an organized emai
 
 ## 5.5. Communication 
 
-### General
-### 5.5.1. Soliciting Feedback, Help, Support
+### 5.5.1. General
+### 5.5.2. Soliciting Feedback, Help, Support
 Recognize that there is a flexible but finite amount of time/effort that Tiffany/each labmate/mentor can devote to helping you on any given task. Prioritize what your needs appropriately so that you expend those resources on tasks you that you need help with. This will change depending on your current skills/expertise how (over)committed the mentor is. Don't be afraid to ask for help, but be thoughtful about asking for help in a way that makes it straightforward for someone to help you. 
 
 **Asking for Support**. Be thoughtful when interrupting the workflow of your lab mates / mentors. I apologize if the suggestions below seem obvious or condescending, but everyone doesn't enter the lab with the same awareness. 
@@ -384,7 +387,7 @@ Additional considerations:
 * It helps you build soft skills that will improve your professional work no matter your career path.
 If a labmate's approach to asking for your support is not effective for you. Kindly communicate better ways for them to work with you. 
 
-### 5.6. Presentations
+### 5.5.3. Presentations
 
 Learning to present your research is important. Very few people will read your papers carefully (sad, but true) but you can reach a lot of people at conference talks and posters. Also, if you plan on staying in academia, getting a post-doc position and getting a faculty position both significantly depend on your ability to present your data. Even if you want to leave academia, presentations are likely to be an important part of your job. Additionally, every time you present your work, you are representing not just yourself but the entire lab.
 
@@ -394,7 +397,7 @@ It is therefore highly encouraged that you seek out opportunities to present you
 
 **Talks**. Tiffany's advice for designing slides for a talk are [available in this GitHub Repo](files/ppt_illustrator_tips_for_visual_presentations.pptx). When deciding what to present in a talk and what to say about it, aim to *teach your science*.  Even the smartest audience cannot follow your data unless you explain it to them.  Walk them through the key methods. Walk them through the data visualization -- what are the axes?  Then tell them how to interpret the data. This makes sure they understand the information.  Use repetition.  Start the talk with the major question / Aims.  Provide background information that prepares the audience to understand your approach to answering that question. Walk them through the approach and data.  Recap with the major question and what your data says about the topic.  
 
-## 5.7. Recommendation Letters
+## 5.6. Recommendation Letters
 
 Letters of recommendation are extremely important for getting new positions and grants. You can count on Tiffany to write you a letter if you have been in the lab at least one year (it’s hard to really know someone if they have only been around for a few months). Exceptions can be made if students or post-docs are applying for fellowships shortly after starting in the lab.
 
@@ -402,9 +405,9 @@ If you need a letter, notify Tiffany as soon as possible with the deadline (see 
 
 Tiffany will ask postdoc/graduate mentors to co-write letters of recommendation for undergraduate researchers with whom the supervise.  This is professional training for the mentor and will help the letter be stronger and detailed. [Train yourself to minimize implicit bias in your letters.](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters)
 
-## 5.8. Data Management
+## 5.7. Data Management
 
-### 5.8.1. Electronic lab notebook
+### 5.7.1. Electronic lab notebook
  
 **Lab Notebooks** are property of the lab and will digital and be backed up regularly (Bonus--you can keep a copy to use as a reference when you leave the lab!).
 * If you make scratch paper notes, take photos & attach it to your notebook.  Same with scratch calculations in excel -- screenshots. If you are transitioning from a paper labnotebook, you can also use photos --> Electronic lab notebook as an interim solution. 
@@ -418,22 +421,22 @@ Tiffany will ask postdoc/graduate mentors to co-write letters of recommendation 
 * I recommend reading [A quick guide for using Microsoft OneNote as an electronic laboratory notebook](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006918). Consider using keywords and tags in your notebooks because OneNote's search is pretty powerful. 
 * While you are transitioning from a paper-lab notebook & when you need to take paper notes -- feel free to take photographs of your notes/notebook pages & embed them into OneNote pages. The phone app is pretty great for doing this. 
 
-### 5.8.2. Strain lists
+### 5.7.2. Strain lists
 **Work-In Progress strains/plasmids** should be kept in personal freezer boxes, which is a short-to-medium term storage. 
 
 **Core Strain inventory**. Once validated I expect strains & plasmids to be added to the core strain inventory (detailed in the ["Glycerol stocks" lab protocol](https://github.com/lowepowerlab/protocols/blob/master/glycerol_stocks.md)). All validated plasmids should be added to a core folder on the lab's Benchling account. 
     * I encourage everyone to do monthly audits of their strains and make sure any confirmed strains are moved to the permanent collection & incorrect strains are put in biohazard waste. 
 
-### 5.8.3. Protocols
+### 5.7.3. Protocols
 **Lab protocols** are hosted on Github: https://github.com/lowepowerlab/protocols. 
     * Create a Github account for yourself and apply for an [academic account](https://help.github.com/en/articles/applying-for-an-educator-or-researcher-discount) to have the option of private repositories. I expect all repositories to be shared within the lab and any validated data or protocol to eventually be publicly published and shared with the scientific community. 
     * As we optimize/improve/change protocols, please commit updates to the shared lab protocols, and list yourself as a contributer. 
     * Github allows us to have version control on protocols, so it's possible to retrieve previous versions of protocols. 
 
-## 5.9. Google Drive
+## 5.8. Google Drive
 UC Davis pays for google services accounts.  We have a "Team Drive" called the "Lowe-Power Lab Drive".  Make sure you are added to this.  This is where we keep documents that all users will want to view (and most will want to edit). *Note, This might turn out to be a non-ideal solution. It's possible it will be hard to share specific files with outside collaborators. It might be an all-or-none option for sharing. 
 
-## 5.10. Managing the Literature 
+## 5.9. Managing the Literature 
 
 **RSS Feeds**.  Use PubMed digests, Google Scholar alerts, or another method to keep up with the literature that is relevant to your project. 
 
@@ -490,10 +493,14 @@ I encourage the use of Windows platforms for compatibility with the lab.  But ul
 
 **Box Sync**. For cloud back-up of lab files.  See section on Box above for more details. 
 
-**Slack Desktop Client** and **Slack Phone App** for lab communcation
+**Slack Desktop Client** and **Slack Phone App** for lab communication
 
 **Useful Software**
 
 * [ACD Chemsketch](https://www.acdlabs.com/resources/freeware/chemsketch/) - Chemistry drawing program. (There's also a UCD license to ChemDraw, but it's a very bloated program & you probably don't need all the features.)
 
 * [BioRender](https://biorender.com/) -- Quick biology diagrams. Unfortunately, they only export as JPGs on the free version. You should avoid JPGs for graphs / text / cartoons because of the compression.  PNG and TIFs have better compression for line-art. 
+
+# 10. Facilities
+
+Information about Hutchison Hall and resources on campus
