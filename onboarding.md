@@ -113,6 +113,20 @@ Thank you
 
 # Misc.
 
+## Adding yourself to the lab website
+
+I encourage everyone to be represented on the lab website http://lowepowerlab.ucdavis.edu/people. This is really helpful for you being present in the Plant Pathology dept community. Neighbor labs will often use the directory to learn people's names when they are embarrased that they forgot them.
+
+Add yourself to the website by getting access to the [lab GitHub website repo](https://github.com/lowepowerlab/lowepowerlab.github.io) & editing the people.md markdown file within /_pages/ folder. 
+
+OR
+
+Please send Tiffany an email asking her to add you. 
+1. a photo cropped to be a headshot. 
+2. Your education information (previous degrees, current majors, etc). You don't have to provide high school information because that's oddly a security question on a lot of websites...
+3. Any hobbies / interests you'd like to share with the lab.
+4. If you feel strongly that you don't want your email address on the website, let me know. 
+
 ## Where to find administrative help (HR, Purchasing, Travel, IT, etc)
 
 The Plant Pathology dept shares admin staff with the Entomology & Nematology depts. They are named the Phoenix Cluster. Familiarize yourself with [the Phoenix Website](https://phoenix.ucdavis.edu/)--especially the links to the side of the page. Also, you might have reasons to direct questions to a specific department (e.g. HR, Purchasing, Travel, IT, etc.), so you can find their (mailing lists here)[https://phoenix.ucdavis.edu/departmental-mailing-lists]. The staff's offices are located on the 3rd floor of Hutchison and in Briggs Hall, and they are friendly people who can help you with walk-in questions. 
