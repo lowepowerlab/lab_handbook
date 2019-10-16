@@ -251,6 +251,14 @@ The lab has a few Google calendars on the shared account: LowePowerLab@gmail.com
 1. **Travel LowePowerLab** calendar: Indicate your travel dates (e.g. "Tiffany away" for Aug 1-7) so that people know when you aren't available. It's important to know if only 1 or 0 people will be present in lab in case we receive a shipment of enzymes on dry ice--we'll need to ask a neighbor lab to receive them.  *This calendar posts weekly-Monday to #announcements on Slack.*
 1. **Seminars LowePowerLab** calendar: Add interesting seminars to this calendar. Make sure to include room location in the event. *This calendar posts weekly-Monday to #announcements on Slack.*  Also feel free to post last-minute notices about seminars directly into the #announcement slack. Aim to attend avg ~1 seminar / week in the academic year. 
 
+    **Seminar series include:**
+    * **Plant Pathology aka PLP-290**: http://plantpathology.ucdavis.edu/GradSeminars.cfm
+    * **Microbiology & Molecular Genetics** aka MIC-291: https://mmg.ucdavis.edu/calendar
+    * Integrative Genetics & Genomics: https://igg.sf.ucdavis.edu/all-events
+    * Plant Science Seminar series. (Often more ecosystem scale plant biology): https://www.plantsciences.ucdavis.edu/plant-sciences-seminars
+    * Plant Biology Grad Group (often more molecular scale plant biology): https://pbi.ucdavis.edu/all-events
+    * Medical Microbiology aka MMI 291 (often has a strong vertebrate animal immunology focus): https://health.ucdavis.edu/medmicro/seminars.html
+
 If you want to know my availability, either for an informal walk-in meeting or reserve an extra formal meeting, I have a busy/available calendar here: [tinyurl.com/tlp-avail](tinyurl.com/tlp-avail). (This is also in my email signature).  To reserve formal meetings, send me a Google Calendar invite and I'll accept them or decline them and email you to schedule an alternative time (in case I left something off my calendar).  
 
 ## 4.7. Benchling
