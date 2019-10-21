@@ -252,10 +252,13 @@ The lab has a few Google calendars on the shared account: LowePowerLab@gmail.com
 1. **Seminars LowePowerLab** calendar: Add interesting seminars to this calendar. Make sure to include room location in the event. *This calendar posts weekly-Monday to #announcements on Slack.*  Also feel free to post last-minute notices about seminars directly into the #announcement slack. Aim to attend avg ~1 seminar / week in the academic year. 
 
 ### **Seminar series include:**
+Obviously we cannot spend the whole week in seminar. However, each of these lists may contain seminars of interest to our multi-disciplinary research group.
+
 * **Plant Pathology aka PLP-290**: http://plantpathology.ucdavis.edu/GradSeminars.cfm
 * **Microbiology & Molecular Genetics** aka MIC-291: https://mmg.ucdavis.edu/calendar
 * Integrative Genetics & Genomics: https://igg.sf.ucdavis.edu/all-events
 * Plant Science Seminar series. (Often more ecosystem scale plant biology): https://www.plantsciences.ucdavis.edu/plant-sciences-seminars
+* Ecology and Evolution: http://eve.ucdavis.edu/seminars.html
 * Plant Biology Grad Group (often more molecular scale plant biology): https://pbi.ucdavis.edu/all-events
 
 * Medical Microbiology aka MMI 291 (often has a strong vertebrate animal immunology focus): https://health.ucdavis.edu/medmicro/seminars.html
