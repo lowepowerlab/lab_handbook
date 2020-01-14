@@ -24,7 +24,7 @@ Disclaimer: All data and notebooks are property of the lab.  However, you are we
 
 Lab notebook folders are required to be backed up every 12 months.  It is strongly recommended to back up every 6 months.  All non-replaceable data should be backed up ASAP.  You probably want to do this at the end of the day because files might become inaccessible during backup
 
-**Tutorial**: [../files/backup_box_tutorial.pptx](https://github.com/lowepowerlab/protocols/tree/master/files/backup_box_tutorial.pptx)
+**Tutorial**: [../files/backup_box_tutorial.pptx](files/backup_box_tutorial.pptx)
 
 # Sharing Resources (Folders with 1 -)
 
