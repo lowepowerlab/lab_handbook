@@ -345,10 +345,10 @@ Meetings with Tiffany & Full-time labbies.
 [**Essential Reading**: What to bring to a meeting with your advisor](http://www.avasthilab.org/2017/03/14/what-to-bring-to-a-meeting-with-your-advisor/). I expect you will come to the meeting with your primary data labeled and organized. Make sure that you also use this time to communicate new ideas that you have about your work and challenges that you are facing.
 
 **Research meetings**. At the beginning of each quarter, we will set a schedule for weekly or biweekly meetings. Meetings will last 30 min - 1 hr. 
-* *Frequency*
-    * Weekly at the beginning of your tenure in the lab or a transition to a new project.
-    * When your project is rolling forward, we will convert to every-other-week research meetings.
-    * I (Tiffany) prefers afternoon meetings, but will be flexible to your needs. 
+* *Frequency*. Weekly at the beginning of your tenure in the lab or a transition to a new project. When your project is rolling forward, we will convert to every-other-week research meetings.
+* *Agenda*. The Mentee is responsible for preparing a printed agenda that focuses on their **Active Experiments** (Experiments are active until the data has been *analyzed* and *presented in a meeting*) and **Upcoming Experiments** (to be started the current or following week). The guidelines are posted in Box > Lowe-Power Lab-shared > 1-Meetings
+
+* *Follow-Up*.  During the meeting, the mentee will prepare minutes on what was discussed during the meeting.  These will be typed up & emailed to the PI by the end of the day. 
 
 **Literature meetings**: For the first 6 months - 1 year, graduate students (required) and postdocs (encouraged) should schedule weekly 1-on-1 literature meetings (30 min) with me. 
 * **Purpose**: To get up to speed on the literature, new lab members will do an in-depth read of at least 1 research article related to their project. Paper is your choice, but you can ask me for suggestions.  Also, there are some options on the [Recommended Reading doc](https://docs.google.com/document/d/1P-1xsSmAvdl-zBIPTzegvSQwl7Bo9lA3qmXo16owYDA/edit#heading=h.jhbq16rd80b)--Request access).  
