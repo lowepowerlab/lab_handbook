@@ -64,6 +64,7 @@ I think a very important part of my job as a professor is to train and advise st
 ✔ **Apply for fellowships, awards, and travel grants.**  Not only will an award help your career and the overall lab funding situation, the experience of writing the proposal will help you think about what you are doing more deeply. If you see an award you are eligible for, please let me know and I’ll be happy to nominate you and work on it in collaboration with you. I expect PhD students to make use of the travel funds available through the grad division and department, failure to do so may mean that I will not use lab funds to facilitate your travel. Encourage your labmates to apply for fellowships as well!
 
 ⮞ **You will develop strong research skills**
+
 ✔ **Prepare scientific articles that effectively present your work to others in the field.** The ‘currency’ in science is published papers, and we have an obligation to funding agencies to complete and disseminate our findings. I will push you to publish your research as you move through your training program, not only at the end. PhD students will be expected to be lead author on at least 2 research manuscripts. Time and opportunity permitting, consider adapting the introduction to your PhD thesis into a Review / Min iReview. Similarly, postdocs should aim for at least 2-3 first author papers. We will deposit all our manuscripts on a preprint server like bioRxiv at the same time as we submit them to a peer-reviewed journal. We will identify journals/publishing companies that are consistent with the lab's values (e.g. we will favor Society journals [ASM, APS, ASPB] and open access journals and avoid Elsevier journals).
 
 ✔ **Keep up with the literature so that you can have a hand in guiding your own research.** Block at least one hour per week to read papers. You are expected to keep on top of both current and past literature related to your project.  Because of the volume of individual research projects in the lab and my other teaching and administrative duties, I do not have the bandwidth to be on top of all of the literature for everyone’s project—I expect you to be the expert! Please forward me papers you come across that you think are particularly relevant, and I will do the same. To help yourself, set up keyword searches through PubMed or Google Scholar alerts.  Consider using Twitter professionally (following scientists & contributing to public discource), but make sure it doesn't distract you from your work. 
@@ -144,6 +145,12 @@ As an undergraduate in the Lowe-Power lab, your first priority is school.  We ar
 * Represent the lab with pride and integrity, and show respect for others.  You are now an ambassador for the lab as well as a member.  Our reputation will be partially formed by how you interact with other colleauges. 
 * Contribute to lab chores (making media, sterilizing tips, cleaning work areas).
 * Have fun and get excited about contributing to new discoveries about life!
+
+## 2.6 Authorship Guidelines
+
+When beginning a new project, the trainee taking the lead role can expect to be the first author of published work, and Tiffany will typically be the last author. Students and postdocs who help over the course of the project may be added to the author list depending on their contributions, and their placement will be discussed with all other authors. If a trainee takes on a project but subsequently hands it off to someone else, they likely will lose first authorship to the person they pass it on to, unless co-first-authorship is appropriate.
+
+If you leave the lab with unpublished work, you should talk to Tiffany about whether you plan to continue to work with her to write it up and manage experiments needed for revision after leaving, or if the final project write-up and revisions should be reassigned to another lab member. In this case, we will revisit authorship questions to determine whether you will retain first authorship, or if the lab member who completes the publication will become first author. This will depend on how much more needs to be done to get the research into a publishable form.
 
 # 3. Code of Conduct
 
