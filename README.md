@@ -15,7 +15,7 @@ This lab handbook is licensed under a [Creative Commons Attribution - NonCommerc
 
 # 2. Expectations and Responsibilities
 
-## 2.1. Everyone
+## Everyone
 
 *Big Picture*
 
@@ -65,7 +65,6 @@ I think a very important part of my job as a professor is to train and advise st
 
 ⮞ **You will develop strong research skills**
 
-<<<<<<< HEAD
 ✔ **Maintain detailed, organized, and accurate laboratory records.** You will maintain an electronic lab notebook using the Box cloud service. Your notes should allow your work to be reproduced (meaning they must be understandable by people other than yourself). To write grants to support your work, I need to be able to easily find and understand your data. Be aware that your notes, records and all tangible research data, including sequences and analyses, are property of the lab. When you leave the lab, I encourage you to take copies of your data with you, but one full set of all data must stay in the lab, with appropriate and clear documentation. Early in your tenure, I will audit your laboratory notes to ensure you are recording your data in detail. Please remind me if I forget. Regularly backup your computer data. For more detailed guidelines, see the **"Box Electronic Lab Notebook"** section below.
 
 ✔ **Critically analyze your data in a timely fashion.** You will analyze your data shortly after it is collected. This includes performing any mathematical normalizations or conversions and graphically representing the data in a publishable format (using Graphpad Prism or R). I expect you to critique the data -- did the experiment perform as expected (i.e. similar to results obtained previously in the lab as shown in our publications and electronic lab notebooks?). If you are not sure about the data, please bring it up to me and labmates ASAP, so that we can set priorities for troubleshooting. You should come to 1:1 meetings with me (Tiffany) with analyzed data to discuss the results and future directions. 
@@ -176,7 +175,7 @@ The trainee that contributes the most to a project can expect to be the first au
 
 If you leave the lab with unpublished work, you should talk to Tiffany about whether you plan to continue to work with her to write it up and manage experiments needed for revision after leaving, or if the final project write-up and revisions should be reassigned to another lab member. In this case, we will revisit authorship questions to determine whether you will retain first authorship, or if the lab member who completes the publication will become first author. If the unit requires significantly more labwork to confirm / support the results, then first-authorship might be passed to a current lab member. Authorship will depend on how much more needs to be done to get the research into a publishable form.
 
-# Code of Conduct
+# 3. Code of Conduct
 
 The Lowe-Power lab is a collaborative team of scientists to work together to advance knowledge and understanding of our natural world.  We are committed to creating a welcoming and respectful place for learning, teaching, and contributing.  We value ideas, open minds, hard work, and fun. All members and guests of our lab are expected to demonstrate respect and courtesy to others.  We treat physical and emotional safety seriously. 
 
@@ -186,7 +185,7 @@ We recognize that some groups in our community are subject to historical and ong
 
 *Ask for permission before posting candid photographs/videos of labmates to social media or in talks.  If using a photo of a labmate in a talk to credit their work, use the photo they approved for the lab webpage or another professional social networking site, or otherwise ask for their permission. 
 
-# Computing & Software recommendations
+# 4. Computing & Software 
 
 While the budget allows, full-time labbies (postdocs, grad students, and junior specialists) will be issued a computer that is in line with their research needs. Budget will be $1k, and it will be a Windows machine. Desktops can be configured for you to remote-into the machine if you are more productive writing/analyzing data from home/coffee shop/library.  However, it will be better for lab dynamics if you are physically present in lab when possible. 
 
@@ -221,7 +220,7 @@ I encourage the use of Windows platforms for compatibility with the lab.  But ul
 
 **RSS Feeds**.  Use PubMed digests, Google Scholar alerts, or another method to keep up with the literature that is relevant to your project. 
 
-# Lab Resources and Expectations for Data Management
+# 5. Lab Resources and Expectations for Data Management
 
 Tiffany and the lab will post resources to the [lab webpage (Resources Subpage)](http://lowepowerlab.ucdavis.edu/resources/). Feel free to add resources you discover yourself. Consider advertising them to the Slack as well. 
 
@@ -229,7 +228,7 @@ Tiffany and the lab will post resources to the [lab webpage (Resources Subpage)]
 
 Enter your contact information into the [Lab Contact Sheet](https://cutt.ly/lpl_contact). Save your labmates' phone numbers in your phone in case of Emergency.  Ask for permission to use the phone numbers for personal/social use and respect your labmates' wishes. *Do not use the phone numbers for harassment of any sort*. 
 
-## 4.2. Box Electronic Lab Notebook
+## Box Electronic Lab Notebook
 
 Our lab keeps open lab notebooks that are automatically synced to our shared "LPLab" folder on [Box at ucdavis.box.com](ucdavis.box.com) (using Box Drive). Details below. 
 
@@ -384,13 +383,13 @@ You will use your @ucdavis.edu account to access a lot of services at Davis (ema
 
 *I had to request specific access to a gmail email interface called *DavisMail*.  If you also don't want to use the Outlook interface, contact [Phoenix IT](https://phoenix.ucdavis.edu/PITS/Help_Request_Ticket) and ask to be transferred to gmail.
 
-# General Policies
+# 6. General Policies
 
 ## Hours
 
 The main gist is -- the specific hours worked don't matter as much as whether you are being personally productive & promoting lab community by supporting your labmates.
 
-I expect that everyone meets a minimum of 40 working hours.  While there is considerable flexibility in academia, I encourage you to generally aim to be on campus/in lab for M-F for +/- 9 am - 5 pm. If this doesn't work for you because of outside commitments or other reasons, please feel free talk to me. However, you are responsible for setting your own schedule and being productive with your time. I ask you to be willing to work weekends and evenings when necessary.  During emergencies or crunch times, I ask you to be flexible, available, and willing to work beyond your personal schedule. 
+I expect that everyone meets a minimum of 40 working hours.  While there is considerable flexibility in academia, I encourage you to generally aim to be on campus/in lab for M-F for +/- 9 am - 5 pm. If this doesn't work for you because of outside commitments or other reasons, please feel free talk to me. However, you are responsible for setting your own schedule and being productive with your time. I ask you work weekends and evenings when necessary.  During emergencies or crunch times, I ask you to be flexible, available, and willing to work beyond your normal schedule. 
 
 Being physically present in lab is helpful for learning from others, supporting others, building community, and having fast and easy access to resources/people that you need.  It also removes some of the distractions of your home (e.g. Netflix, your cats, and all the cleaning you could accomplish instead of writing).  However if you're in a writing-intensive portion of research (Grants, manuscripts, etc.), and you're more productive in a coffee shop/library/back porch, then you-do-you.  Even still, try to at least have some face-time in lab/office every day. Slack can help, but a real conversation is often more efficient/effective.  
 
@@ -460,7 +459,7 @@ Meetings with Tiffany & Full-time labbies.
 
 **Career Planning meetings**: In January, Tiffany will hold career planning meetings with post-docs, graduate students, junior specialists, and lab managers. We will follow [these guidelines](files/career_meeting_guidelines.pdf). 
 
-# Organization
+## Organization
 
 One way of maintaining sanity in academic work is to be reasonably organized.  This is essential because disorganization doesn't just hurt you, it hurts your collaborators, people whose help you need, and people who later work to build off of your scientific contributions. 
 
@@ -499,7 +498,7 @@ Use judgement when using lab resources, including your own time.  Be careful to 
 
 At some point, you will likely be asked to provide a figure or two for a grant Tiffany is writing and/or provide feedback on the grant.  Relatedly, you are entitled to read any grant Tiffany has submitted, whether it is ultimately funded or not (To be posted on the Box shared folder). Aside from being a good opportunity to learn how grants are written, this will also allow you to see her vision for the lab in the years ahead. Feel free to remind Tiffany if you notice she forgot to upload the final submitted grants to the shared Box folder. 
 
-# Communication 
+# 8. Communication 
 
 ## General
 ### Soliciting Feedback, Help, Support
