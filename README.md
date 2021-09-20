@@ -38,13 +38,13 @@ I think a very important part of my job as a professor is to train and advise st
 
 ✔ **Ensure that you meet regularly with me and provide me with updates on the progress and results of your activities and experiments.** Guidelines on meetings are below.      
 
-✔ **Be knowledgeable of the policies, deadlines, and requirements of the program and the university.** Comply with all institutional policies, including academic program milestones, laboratory practices, and rules related to lab safety. PhD students are expected to meet with their thesis committee once per year, it is your responsibility to plan these meetings.
+✔ **Be knowledgeable of the policies, deadlines, and requirements of the program and the university.** Comply with all institutional policies, including academic program milestones, laboratory practices, and rules related to lab safety. PhD students are expected to meet with their thesis committee once per year. It is *your responsibility* to plan these meetings.
 
 ✔ **Actively cultivate your professional development.** UC Davis has resources in place to support professional development for students and postdocs. It is important to take advantage of these resources, since becoming a successful scientist involves more than just doing academic research. Aim to attend a weekly seminar. Attendance at conferences and workshops will also provide professional development opportunities. If you find a training opportunity related to particular skill, share it with me and we will try to make it happen.
 
 ✔ **Develop your writing and presentation skills.**  As you start to make progress, begin outlining a paper’s figures and drafting the text, especially the *Methods*. Be prepared to go through rounds of revisions before submitting an abstract, poster or paper. Although the availability of travel funds will vary, I encourage everyone to attend at least one conference per year (although it is required that you present a poster or give a talk). Conference abstracts need to be approved by me prior to submission, and we should work on your talk or poster together before it is finalized.  Take full advantage of local opportunities to present your research, including local seminar series, etc. 
 
-✔ **Build your mentoring team.** Everyone needs many mentors with diverse perspectives throughout their career. Once you recognize my strengths and deficiencies as a mentor, seek out additional formal and informal mentors to help you achieve your goals. Seek out diverse mentors: peer mentors, mentors with a shared background, mentors inside & outside of academia. 
+✔ **Build your mentoring team.** Everyone needs many mentors with diverse perspectives throughout their career. Once you recognize my strengths and deficiencies as a mentor, seek out additional formal and informal mentors to help you achieve your goals. Seek out diverse mentors: peer mentors, mentors with a shared background, mentors inside & outside of academia. Also, seek out mentees as well. We can grow both by mentoring and being mentored. 
 
 ⮞ **You will be a team player**
 
@@ -59,12 +59,13 @@ I think a very important part of my job as a professor is to train and advise st
 
 ✔ **Support your labmates.** I want everyone to follow the "put your oxygen mask on first model." Prioritize your efforts to your main project(s), but also lend a mind and hands to your labmates when they need help. More details below. 
 
-✔ **Be mindful of conflict and work to resolve it**. Plan ahead and talking about problems before they fester. Be willing to compromise. But if a labmate's actions and behaviors are having negative impacts on you, clearly, kindly, and respectfully communicate this. Be willing to forgive your labmates (adopt a Growth Mindset!). Be willing to listen to your labmates when they share these concerns with you. Be willing to choose your battles -- there is a balance between resolving conflict by redirecting the actions of the others and by accepting the imperfections of your labmates. If you don't have the skills or comfort to do this, part of Tiffany's job is personnel management.  Working well in teams is a strong *transferable skill* you can develop during your training.  **Recognize that no one is perfect.** 
+✔ **Be mindful of conflict and work to resolve it**. Plan ahead and talk about problems before they fester. Be willing to compromise. But if a labmate's actions and behaviors are having negative impacts on you, clearly, kindly, and respectfully communicate this. Be willing to forgive your labmates (adopt a Growth Mindset!). Be willing to listen to your labmates when they share these concerns with you. Be willing to choose your battles -- there is a balance between resolving conflict by redirecting the actions of the others and by accepting the imperfections of your labmates. If you don't have the skills or comfort to do this, part of my/Tiffany's job is personnel management. So please discuss unmanaged problems with me so that I can work with you to solve it.  Working well in teams is a strong *transferable skill* you can develop during your training.  **Recognize that no one is perfect.** 
 
 ✔ **Apply for fellowships, awards, and travel grants.**  Not only will an award help your career and the overall lab funding situation, the experience of writing the proposal will help you think about what you are doing more deeply. If you see an award you are eligible for, please let me know and I’ll be happy to nominate you and work on it in collaboration with you. I expect PhD students to make use of the travel funds available through the grad division and department, failure to do so may mean that I will not use lab funds to facilitate your travel. Encourage your labmates to apply for fellowships as well!
 
 ⮞ **You will develop strong research skills**
 
+<<<<<<< HEAD
 ✔ **Maintain detailed, organized, and accurate laboratory records.** You will maintain an electronic lab notebook using the Box cloud service. Your notes should allow your work to be reproduced (meaning they must be understandable by people other than yourself). To write grants to support your work, I need to be able to easily find and understand your data. Be aware that your notes, records and all tangible research data, including sequences and analyses, are property of the lab. When you leave the lab, I encourage you to take copies of your data with you, but one full set of all data must stay in the lab, with appropriate and clear documentation. Early in your tenure, I will audit your laboratory notes to ensure you are recording your data in detail. Please remind me if I forget. Regularly backup your computer data. For more detailed guidelines, see the **"Box Electronic Lab Notebook"** section below.
 
 ✔ **Critically analyze your data in a timely fashion.** You will analyze your data shortly after it is collected. This includes performing any mathematical normalizations or conversions and graphically representing the data in a publishable format (using Graphpad Prism or R). I expect you to critique the data -- did the experiment perform as expected (i.e. similar to results obtained previously in the lab as shown in our publications and electronic lab notebooks?). If you are not sure about the data, please bring it up to me and labmates ASAP, so that we can set priorities for troubleshooting. You should come to 1:1 meetings with me (Tiffany) with analyzed data to discuss the results and future directions. 
@@ -74,6 +75,15 @@ I think a very important part of my job as a professor is to train and advise st
 ✔ **Prepare scientific articles that effectively present your work to others in the field.** The ‘currency’ in science is published papers, and we have an obligation to funding agencies to complete and disseminate our findings. I will push you to publish your research as you move through your training program, not only at the end. PhD students will be expected to be lead author on at least 2 research manuscripts. Time and opportunity permitting, consider adapting the introduction to your PhD thesis into a Review / MiniReview. Similarly, postdocs should aim for at least 2-3 first author papers. We will deposit all our manuscripts on a preprint server like bioRxiv at the same time as we submit them to a peer-reviewed journal. We will identify journals/publishing companies that are consistent with the lab's values (e.g. we will favor Society journals [ASM, APS, ASPB] and open access journals [PLoS, eLife, PeerJ] and avoid Elsevier, MDPI, and similar journals).
 
 ✔ **Acknowledge that performing experiments and using lab resources is a privilege**. Scientists have to be careful. Don't rush your work.  **Plan** it. **Organize** it. If performing a new protocol, walk through the steps. Everyone makes mistakes and gets overwhelmed, however, if your records and analyses are not getting the attention needed to ensure reproducibility then your use of lab resources will be put on hold. 
+=======
+✔ **Prepare scientific articles that effectively present your work to others in the field.** The ‘currency’ in science is published papers, and we have an obligation to funding agencies to complete and disseminate our findings. I will push you to publish your research as you move through your training program, not only at the end. PhD students will be expected to be lead author on at least 2 research manuscripts. Time and opportunity permitting, consider adapting the introduction to your PhD thesis into a Review / MiniReview. Similarly, postdocs should aim for at least 2-3 first author papers in a 2-3 year postdoc. We will deposit all of our manuscripts on a preprint server like bioRxiv at the same time as we submit them to a peer-reviewed journal. We will identify journals/publishing companies that are consistent with the lab's values (e.g. we will favor Society journals [ASM, APS, ASPB] and open access journals and avoid Elsevier journals).
+
+✔ **Keep up with the literature so that you can have a hand in guiding your own research.** Block at least one hour per week to read papers. You are expected to keep on top of both current and past literature related to your project.  Because of the volume of individual research projects in the lab and my other teaching and administrative duties, I do not have the bandwidth to be on top of all of the literature for everyone’s project—I expect you to be the expert! Please forward me papers you come across that you think are particularly relevant, and I will do the same. To help yourself, set up keyword searches through [PubMed](https://www.ncbi.nlm.nih.gov/guide/howto/receive-search-results/) or [Google Scholar alerts](https://academicanswers.waldenu.edu/faq/134432).  Consider using Twitter professionally (following scientists & contributing to public discource), but make sure it doesn't distract you from your work. Also, make sure that Twitter/science social media does not detract from your mental health. If you are struggling with your project, Twitter can amplify negative feelings. 
+
+✔ **Maintain detailed, organized, and accurate laboratory records.** Your lab notebook, notes, data, and analysis are the property of the lab. You will maintain an electronic lab notebook. Your notes should allow your work to be reproduced (meaning they must be understandable by people other than yourself) and will help to assign credit for authorship. They are required by funding agencies and for any potential patents. Be aware that your notes, records and all tangible research data, including sequences and analyses, are property of the lab. When you leave the lab, I encourage you to take copies of your data with you, but one full set of all data must stay in the lab, with appropriate and accessible documentation.  Regularly backup your computer data. 
+
+✔ **Acknowledge that performing experiments and using lab resources is a privilege**. Scientists have to be careful. Don't rush your work.  Plan it. Organize it. If performing a new protocol, walk through the steps. Everyone makes mistakes and gets overwhelmed, however, if your records and analyses are not getting the attention needed to ensure reproducibility then your use of lab resources will be put on hold. When starting something new, plan a trial experiment to practice a technique or to get familiar with working with an organism. You cannot
+>>>>>>> 6693f3ed337850a14a278b1baf7268f2b97d39df
 
 ⮞ **You will communicate clearly**
 
@@ -81,7 +91,11 @@ I think a very important part of my job as a professor is to train and advise st
 
 ✔ **Include Tiffany on all communications regarding your any lab research (yours or others).** This includes cc'ing me on emails and making me aware of any conversations outside of email.  Basic research inherently is a competitive environment. We will be open about our work among colleagues, but we need to be mindful about what we share, when we share it, and with whom we share it. If you are unsure of what level of detail you can describe to whom, please ask me about it in advance. 
 
+<<<<<<< HEAD
 ✔ **Let me know the style of communication or schedule of meetings that you prefer.** If there is something about my mentoring style that is proving difficult for you, please tell me so that you give me an opportunity to find an approach that works for you. No single style works for everyone; no one style is expected to work all the time. Do not skip meetings with me if you feel that you have not made adequate progress on your research; these might be the most critical times to meet. When you join the lab and at annual IDP meetings, I ask that you fill out the [Workstyle Questionaire](https://forms.gle/i8mJ7ZLnuKyRjQfBA)
+=======
+✔ **Let me know the style of communication or schedule of meetings that you prefer.** If there is something about my mentoring style that is proving difficult for you, please tell me so that you give me an opportunity to find an approach that works for us. No single style works for everyone; no one style is expected to work all the time. Do not skip meetings with me if you feel that you have not made adequate progress on your research; these might be the most critical times to meet.
+>>>>>>> 6693f3ed337850a14a278b1baf7268f2b97d39df
 
 ✔ **Communicate your data with integrity.** It is never okay to plagiarize, tamper with data, make up data, omit data, or otherwise fudge results.  We don't generate data to prove our favorite hypothesis.  We perform science to find out the truth by forming testable hypotheses and rigorously and critically testing the hypotheses. 
 
@@ -102,7 +116,11 @@ What you should expect from me
 
 ✔ **I will encourage you to attend scientific/professional meetings.**  I will not be able to cover all requests but you can generally expect to attend at least one major conference per year when you have material to present. Securing outside funding (e.g. a fellowship or travel award) will likely enable you to attend additional meetings. I will work together with you to strengthen your presentation skills.
 
+<<<<<<< HEAD
 ✔ **I will strive to be supportive, equitable, accessible, encouraging, and respectful.**  I will try my best to understand your unique situation and mentor you accordingly.  I am mindful that each trainee comes from a different background and has different professional goals. It will help if you keep me in formed about your experiences.
+=======
+✔ **I will strive to be supportive, equitable, accessible, encouraging, and respectful.**  I will try my best to understand your unique situation, and mentor you accordingly.  I am mindful that each mentee comes from a different background and has different professional goals. It will help if you keep me informed about your experiences.
+>>>>>>> 6693f3ed337850a14a278b1baf7268f2b97d39df
 
 ## Post-Docs
 In addition to the general expectations above, you are expected to
@@ -113,7 +131,7 @@ In addition to the general expectations above, you are expected to
 * Apply for grants (USDA NIFA, NSF, LSRF, or others). Although I will only hire you if I can support you for at least one year (and ideally 2 years), it is in your best interest to get independent funding.  Even if you don't get funded, grant writing provides you motivation to formalize your research ideas and solicit feedback. 
 * Apply for jobs (academic or non-academic) when you are ready, but no later than the beginning of your 4th year of post-doc.  
 * Challenge me (Tiffany) when I am wrong, when you have a difference of opinion, and share your expertise with the lab. 
-* Contribute to lab chores (Tiffany will divide duties equitably) when we do not have a full-time lab manager
+* Contribute to lab chores (Tiffany will divide duties equitably).
 * Represent the lab with pride and integrity, and show respect for others.  You are now an ambassador for the lab as well as a member.  Our reputation will be partially formed by how you interact with other colleauges. 
 
 ## Graduate Students
@@ -128,7 +146,11 @@ In addition to the general expectations above, you are expected to
 * Identify portions of your research that can be delegated to undergraduate researchers on a mentored research projects. I (Tiffany) will help you recruit motivated undergraduates to work with you.
 * Apply for fellowships/grants at every eligible opportunity (NSF GRFP, USDA NIFA, etc). Even if you don't get funded, grant writing provides you motivation to formalize your research ideas and solicit feedback. 
 * Grow to be the expert in your domain.  Challenge me (Tiffany) when I am wrong. 
+<<<<<<< HEAD
 * Contribute to lab chores.  Tiffany will divide duties equitably.
+=======
+* Contribute to lab chores (Tiffany will divide duties equitably).
+>>>>>>> 6693f3ed337850a14a278b1baf7268f2b97d39df
 * Represent the lab with pride and integrity, and show respect for others.  You are now an abassador for the lab as well as a member. Our reputation will be partially formed by how you interact with our colleagues. 
 
 ## Undergraduate Students
@@ -143,7 +165,7 @@ As an undergraduate in the Lowe-Power lab, your first priority is school.  We ar
 * Remain focused an task-oriented while working (e.g. avoid cell-phones, social media, and other distractions)
 * Maintain a legible, organized, and fully-updated lab notebook in OneNote.
 * Look for and submit fellowship/scholarship applications to receive funding. 
-* Include Tiffany and your mentor on all communications regarding lab research (yours and others'). Basic research can be a competitive environment, so we ask that you are thoughtful about what details you share about our work.  If you are unsure of what you can share and with whom, please ask your mentor or Tiffany. 
+* Include Tiffany and other mentors on all communications regarding lab research (yours and others'). Basic research can be a competitive environment, so we ask that you are thoughtful about what details you share about our work.  If you are unsure of what you can share and with whom, please ask your mentor or Tiffany. 
 * Represent the lab with pride and integrity, and show respect for others.  You are now an ambassador for the lab as well as a member.  Our reputation will be partially formed by how you interact with other colleauges. 
 * Contribute to lab chores (making media, sterilizing tips, cleaning work areas).
 * Have fun and get excited about contributing to new discoveries about life!
