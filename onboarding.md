@@ -77,19 +77,19 @@ You are *required to read* and then **sign the documentation form** in the "Safe
 * Injury and Illness Prevention Program (IIPP)
 * Emergency Action Plan (EAP)
 
-**Lab-Specific Safety Training**. Before experiments begin in the lab, you'll need to go through the initial safety training with the lab's safety coordinator (for Fall 2019, Noelia in Doug Cook's lab has agreed to do this training while we share lab space with the Cook lab).
+**Lab-Specific Safety Training**. Before experiments begin in the lab, you'll need to go through the initial safety training with the lab's safety coordinator (As of Jan 2021, Nathalie Aoun)
 
-When you complete this training, you can take the signed form to the Purchasing Office administrators in 355 Hutchison Hall.  They will issue you keys to the labspace.  In addition to keys for Robbins Hall (Noelia will assign), request keys for 275 Hutchison and 286 Hutchison. 
+When you complete this training, you can take the signed form to the Purchasing Office administrators in 355 Hutchison Hall.  They will issue you keys to the labspace.  
 
 **Read the lab SOPs** and then sign the form in the "Safety Binder". These are printed in the binder and also in Box > 2 - Lab Management > Lowepowerlab SOPs
 
-**Remind Tiffany to add you to safety paperwork**
+**Remind the safety officer to add you to safety paperwork**
 
-Send this email to Tiffany:
+Send this email to the safety officer:
 
 ```
 
-Hello Tiffany,
+Hello Nathalie,
 
 Please add me to 
 1. LHAT/RSS system: ehs.ucop.edu.
@@ -99,7 +99,7 @@ Thank you
 
 ```
 
-**Safety questions**.  It is important to identify safety risks and work with Tiffany, labmates, and EH&S to identify safe ways to proceed. Bring up all safety concerns on the lab's Slack (**# safety** channel) to open a discussion. Public discussion will help your labmates also adopt safety best-practices.
+**Safety questions**.  It is important to identify safety risks and work with the lab safety coordinator, Tiffany, labmates, and EH&S to identify safe ways to proceed. Bring up all safety concerns on the lab's Slack (**# safety** channel) to open a discussion. Public discussion will help your labmates also adopt safety best-practices.
 
 **Lab-safe clothing**. Make sure you have appropriate attire:
 * **Shoes**: closed-toe, closed heel. Non-absorbant material is *strongly* recommended. 
