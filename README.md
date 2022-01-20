@@ -488,11 +488,9 @@ When communicating important hard deadlines with Tiffany, send an organized emai
 
 ### Recommendation Letters
 
-Letters of recommendation are extremely important for getting new positions and grants. You can count on Tiffany to write you a letter if you have been in the lab at least one year (it’s hard to really know someone if they have only been around for a few months). Exceptions can be made if students or post-docs are applying for fellowships shortly after starting in the lab.
+*Please use this form to request letters of recommendation from Tiffany*. https://forms.gle/acmw6UFmv5rHKgbU6
 
-If you need a letter, notify Tiffany well before the deadline (at least 2 weeks). Send your CV and any relevant instructions for the content of the letter, and anything that can help Tiffany write a strong and accurate letter for you. If the letter is for a grant, also include your specific aims. If the letter is for a faculty position, also include your research and teaching statements. 
-
-Strong letters of recommendation are fact-based. Consider reminding Tiffany of specific times when you exhibited an important skill or competency. In some cases (especially if short notice is given), you may also be asked to submit a draft of a letter, which will be modified based on Tiffany's experience with you, made more glamorous (people are much too humble about themselves!), and edited to add anything you left out that Tiffany thinks is important. This will ensure that the letter contains all the information you need, and that it is submitted on time.
+Strong letters of recommendation are specific and fact-based. The form above will help you remind Tiffany of specific times when you exhibited an important skill or competency. 
 
 Tiffany will ask postdoc/graduate mentors to co-write letters of recommendation for undergraduate researchers with whom the supervise.  This is professional training for the mentor and will help the letter be stronger and detailed. [Train yourself to minimize implicit bias in your letters.](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters)
 
