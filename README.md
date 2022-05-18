@@ -189,7 +189,9 @@ I encourage the use of Windows platforms for compatibility with the lab.  But ul
 
 **Graphpad Prism**. We have annual lab licenses for computers of full-time staff.  We use this software for graphing & basic statistics. Access to their [statistics guide](https://www.graphpad.com/guides/prism/8/statistics/index.htm) is free for everyone. We'll try to install Graphpad onto a shared computer for use by undergraduates. 
 
-**Affinity Designer**. Vector-based graphics software.  Way cheaper than Adobe Illustrator/Photoshop ($50 license). Lab will pay for licenses for lab issued computers. Contact the Phoenix Cluster IT to ask for a license (CC Tiffany)
+**Affinity Designer**. Vector-based graphics software (open/edit .SVG files).  Way cheaper than Adobe Illustrator/Photoshop ($50 license). Lab will pay for licenses for lab issued computers. Contact the Phoenix Cluster IT to ask for a license (CC Tiffany). 
+If you need access to Adobe creative suite (e.g. Illustrator or Photoshop), UC Davis allows us to log into "virtual machines" that run this $$ software. You can do this from this URL: https://virtuallab.ucdavis.edu/
+If you export data as a .SVG and it doesn't look correct in one Vector-software, try them all (Affinity Designer, Illustrator, Inkscape). Sometimes files only open well in one platform. 
 
 ** Benchling.com ** (Only available via the website. No installation.)
 * Benchling will be our lab's cloning / primers / short DNA management software.  
