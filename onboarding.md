@@ -14,6 +14,9 @@ I expect everyone to maintain positive, solution-oriented attitudes and approach
 
 Familiarize yourself with the [lab handbook](lab_handbook.md). You don't have to remember all of the details. But you should read it carefully at least once.  And then go back to re-read specific sections when it is appropriate. It is a single document to make it easy to Ctrl+F Search. If I make signficant changes to content sections, I will notify the lab via our lab Slack. 
 
+## Fill out the Workstyle questionnaire
+When you join the lab, I ask that you fill out the [Workstyle Questionaire](https://forms.gle/i8mJ7ZLnuKyRjQfBA). Send me a Slack DM or Email to let me know you filled it out. 
+
 ## Emergency Contact Information. 
 Please add yourself to the [Contact sheet](https://docs.google.com/spreadsheets/d/1fjm018tf4Xtbagq4xlW4ew76mxHWtCQRTvE4sgNhVUs/edit#gid=0). Add your labmates' phone numbers into your phone in case of emergency. 
 
