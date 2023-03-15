@@ -53,7 +53,7 @@ Before starting in the lab:
 Before working on any bacteria in the lab:
 1. Proper Handling of Materials at Biosafety Level 1 
 1. UC DAVIS BIOSAFETY LEVEL 2 ONLINE TRAINING
-1. Read the Biological Usage Authorization (BUA) for our lab. (located in Box > 2 - Lab Management > Biosafety).  If you don't have access, email me to send you a copy. 
+1. Read the Biological Usage Authorization (BUA) for our lab. (located in Box > LPlab-shared >  2 - Lab Management > safety [Or at this link that requires you to log in with your UCD credentials](https://ucdavis.box.com/s/zf3sbnx7qj6saht8ygxu039j1cjawhi2)).  If you don't have access, ask on Slack in the #safety channel.
 
 Before using the biological safety cabinet or cryogens (dry ice, liq N2):
 1. Safe Use of Biological Safety Cabinets
@@ -79,6 +79,7 @@ Navigate to to the [Department's Safety website](http://plantpathology.ucdavis.e
 You are *required to read* and then **sign the documentation form** in the "Safety Binder". 
 * Injury and Illness Prevention Program (IIPP)
 * Emergency Action Plan (EAP)
+* SOPs (Standard operating procedures) when working with specific chemicals with Hazards. 
 
 **Lab-Specific Safety Training**. Before experiments begin in the lab, you'll need to go through the initial safety training with the lab's safety coordinator (As of Jan 2021, Nathalie Aoun)
 
