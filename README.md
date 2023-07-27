@@ -241,6 +241,12 @@ You will use your @ucdavis.edu account to access a lot of services at Davis (ema
 
 Tiffany and the lab will post resources to the [lab webpage (Resources Subpage)](http://lowepowerlab.ucdavis.edu/resources/). Feel free to add resources you discover yourself (You can do this by editing the corresponding page on the lab GitHub). Consider advertising them to the Slack as well. 
 
+## Familiarize Yourself with Common Lab Terms
+
+[Lowe-Power Lab Glossary](https://docs.google.com/document/d/19AsPkU6nHJzNodnoK5z-z4G0OHRLERk6mvZZazWm8Hs/edit?usp=sharing)
+
+This link gives access for viewing and leaving comments if you have questions or want to suggest changes.
+
 ## Emergency Contact sheet
 
 Enter your contact information into the [Lab Contact Sheet](https://cutt.ly/lpl_contact). Save your labmates' phone numbers in your phone in case of Emergency.  Ask for permission to use the phone numbers for personal/social use and respect your labmates' wishes. *Do not use the phone numbers for harassment of any sort*. 
