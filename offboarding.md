@@ -13,7 +13,7 @@ Thanks for being a part of the lab!
   * Bacterial stocks (cryostorage in -80C).  Back-up all Ralstonia in our basement -80C. All plasmids should be stored in an E. coli strain (Upstairs -80C Freezer)
   * Primers can be consolidated into the minimum number of -20 boxes. Only keep the IDT stocks, not your working stocks.
   * Common plasmids and gDNAs can be gifted to a labmate or put in the "common plasmids"/"common gDNA" box *if and only if you trust it. If you don't trust it, toss it.*
-* Please lead a excel spreadsheet map of any freezer boxes you leave behind. 
+* Please lead a excel spreadsheet map of any freezer boxes you leave behind.
 
 Dispose of:
 * old PCR products
@@ -35,7 +35,8 @@ Get rid of papers.  Gift person objects / tokens to people or takent hem with yo
 
 ## Researchers: Discuss authorship on any projects that remain open. 
 * Write down a list of open projects and what your contributions were.
-* Decide what your desired level of contribution is to open projects after you leave. The minimum is that you will need to review manuscripts, provide edits, and approve your authorship. If you do not do this, the ethical thing is for us to acknowledge you.  If you had a very major role in a project and it is nearly complete, you can continue writing or analyzing data outside of your "working hours" of your next position.  It is okay if you do not have time to do this. But if someone else fills in, this might change contributions and result in an updated authorship order. 
+* Decide what your desired level of contribution is to open projects after you leave. The minimum is that you will need to review manuscripts, provide edits, and approve your authorship. If you do not do this, the ethical thing is for us to acknowledge you.  If you had a very major role in a project and it is nearly complete, you can continue writing or analyzing data outside of your "working hours" of your next position.  It is okay if you do not have time to do this. But if someone else fills in, this might change contributions and result in an updated authorship order.
+* If handing off project to another lab member, create a document that lists your current progress on the project and next steps needed for project completion. 
 * Upload the document to your digital lab notebook in an obvious-to-find location.
 
 Have a meeting about your projects with Tiffany.  Also send your project contribution list to your collaborators and ask them to discuss any differences of opinion. Our goal is to not forget to give you middle authorship for your contributions, but please advocate for yourself.  Depending on the project, the scope might change after you leave the group, which might update authorship order. Our goal is to be fair and to publish the science that we do. 
