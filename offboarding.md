@@ -4,7 +4,7 @@ Thanks for being a part of the lab!
 
 ## Everyone: Turn in your keys to the Phoenix Purchasing office
 
-## Everyone: Organize your files
+## Everyone: Organize your computer files
 
 * Make sure all of your data / planning documents / code is backed up to a location where future lab members can access it. This could be Box.com, One-Drive, GitHub, or completely pubic platforms like Zenodo and FigShare.
 
