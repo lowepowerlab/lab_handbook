@@ -117,6 +117,12 @@ Thank you
 
 # Misc.
 
+## Familiarize Yourself with Common Lab Terms
+
+[Lowe-Power Lab Glossary](https://docs.google.com/document/d/19AsPkU6nHJzNodnoK5z-z4G0OHRLERk6mvZZazWm8Hs/edit?usp=sharing)
+
+This link gives access for viewing and leaving comments if you have questions or want to suggest changes.
+
 ## Adding yourself to the lab website
 
 I encourage everyone to be represented on the lab website http://lowepowerlab.ucdavis.edu/people. This is really helpful for you being present in the Plant Pathology dept community. Neighbor labs will often use the directory to learn people's names when they are embarrased that they forgot them.
