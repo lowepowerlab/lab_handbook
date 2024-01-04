@@ -430,6 +430,8 @@ Lab safety is not just checking off the training you complete at the time of onb
 
 **Lab Protocols**.  When writing/editing lab protocols, please add notes about safety. This encompasses **biosafety** (e.g. approaches to avoid release of the plant pathogens we study), **chemical safety** (does a protocol require a chemical that should be used in a fume hood, requires safe disposal, is a strong oxidizing agent/peroxide former, requires a glove material other than nitrile), **sharps safety** (best practices for using sharps for this protocol), **pressurized gases** (cryogens, gas tanks, etc). If you see notes about these safety issues, but do not understand how to work safely around them, *ask for specific training on the **#safety** channel before proceeding*. 
 
+**COVID Safety**. To protect each other from COVID and other illnesses, please do not come into lab if you are sick. If you test positive for COVID, please do not return to lab until after you have recovered and have a negative test result. Be sure to let the lab know if you test positive for COVID, especially if you have been in contact with others in the lab.
+
 ## Meetings
 
 ### **Regular lab meetings**  
