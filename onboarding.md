@@ -113,7 +113,7 @@ Thank you
 
 ### Optional Training
 
-** Plant experiments at CEF require pesticide safety training**. Instructions are on the Planning_Calendar/CEF: https://docs.google.com/spreadsheets/d/1RKv74ofZXSX_71RhkNhpsUe8f0bHhgfq52ccrAbwxxs/edit?gid=1641894600#gid=1641894600
+**Plant experiments at CEF require pesticide safety training**. Instructions are on the Planning_Calendar/CEF: https://docs.google.com/spreadsheets/d/1RKv74ofZXSX_71RhkNhpsUe8f0bHhgfq52ccrAbwxxs/edit?gid=1641894600#gid=1641894600
 
 **Hazardous Shipping**.  If you are a full-time lab member (grad student / postdoc / junior specialist, etc), you are likely to ship or receive packages to/from collaborators.  Take the *Hazardous Shipping Training* in LMS to identify hazards and ship appropriately. Before shipping anything, re-take the training and then use **AggieShip** to generate a shipment.
 
