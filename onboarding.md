@@ -37,8 +37,7 @@ Full name: XXXXXX
 @ucdavis email account: XXXXXX
 
 1. eCourse:UC Laboratory Safety Fundamentals (Initial Training)
-2. Proper Handling of Materials at Biosafety Level 1 
-3. UC DAVIS BIOSAFETY LEVEL 2 ONLINE TRAINING
+2. UC DAVIS BIOSAFETY LEVEL 2 ONLINE TRAINING
 4. Safe Use of Biological Safety Cabinets
 5. eCourse:Cryogen Safety 
 
@@ -48,16 +47,15 @@ These trainings are long, but that is because they cover safety in sufficient de
 
 Before starting in the lab:
 1. eCourse:UC Laboratory Safety Fundamentals (Initial Training). This takes 1 hr, but you can save progress as you go. 
-1. **PPE (Personal Protective Equipment) training**. This takes only 10 minutes. After taking this one you can print the voucher and you can go to VetMed store in Haring hall building and purchase your blue lab coat and safety glasses. *Before you go, check with me because it is possible that I can assign you one of the extra lab coats that we have in the lab.* You will find this training at LHAT website (https://ehs.ucop.edu/lhat/), only you will be able to log in into this website once I add you to the lab roster, wait to receive the invitation. Also from this website you need to certify the Lab Assessment, when you log in the first time you will see in the home page two red check marks, please check on them and the website will walk you through everything. Don't hesitate to ask me questions.
+2. **PPE (Personal Protective Equipment) training**. This takes only 10 minutes. After taking this one you can print the voucher and you can go to VetMed store in Haring hall building and purchase your blue lab coat and safety glasses. *Before you go, check with me because it is possible that I can assign you one of the extra lab coats that we have in the lab.* You will find this training at LHAT website (https://ehs.ucop.edu/lhat/), only you will be able to log in into this website once I add you to the lab roster, wait to receive the invitation. Also from this website you need to certify the Lab Assessment, when you log in the first time you will see in the home page two red check marks, please check on them and the website will walk you through everything. Don't hesitate to ask me questions.
 
 Before working on any bacteria in the lab:
-1. Proper Handling of Materials at Biosafety Level 1 
 1. UC DAVIS BIOSAFETY LEVEL 2 ONLINE TRAINING
-1. Read the Biological Usage Authorization (BUA) for our lab. (located in Box > LPlab-shared >  2 - Lab Management > safety [Or at this link that requires you to log in with your UCD credentials](https://ucdavis.box.com/s/zf3sbnx7qj6saht8ygxu039j1cjawhi2)).  If you don't have access, ask on Slack in the #safety channel.
+2. Read the Biological Usage Authorization (BUA) for our lab. (located in Box > LPlab-shared >  2 - Lab Management > safety [Or at this link that requires you to log in with your UCD credentials](https://ucdavis.box.com/s/zf3sbnx7qj6saht8ygxu039j1cjawhi2)).  If you don't have access, ask on Slack in the #safety channel.
 
 Before using the biological safety cabinet or cryogens (dry ice, liq N2):
 1. Safe Use of Biological Safety Cabinets
-1. eCourse:Cryogen Safety 
+2. eCourse:Cryogen Safety 
 
 Every 3 years:
 1. eCourse:UC Laboratory Safety Fundamentals Refresher 
