@@ -163,6 +163,9 @@ There are a few Communities where you can find open rooms:
 
 This is just a starter list. Craigslist and AirBnB are also potential options.
 
+### Getting Around Davis
+* The Bike Barn rents bikes, including long-term rentals. This can work well for visiting scholars. Details: https://bikebarn.ucdavis.edu/rentals 
+
 # Undergraduate-specific information
 You will be paired with a mentor. The mentor will usually be a current graduate student, junior specialist, postdoc, or rarely the principle investigator (Tiffany). This mentor is volunteering their time to train you. Please respect their time and expertise. Mentored research is a great opportunity to be apprenticed by a scientist and learn both techniques and critical thinking skills. The amount of learning and experience you gain from this experience is proportional to your motivation, curiosity, and attention. If you are too busy to fully participate and take advantage of this opportunity in a certain quarter, communicate that.  This will allow our lab to use our finite time to mentor someone who can take advantage of the opportunity. 
 
