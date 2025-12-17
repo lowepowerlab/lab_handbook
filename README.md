@@ -446,14 +446,29 @@ If you are the presenter:
 
 **Meeting Format**
 * **Lab business** (<5 min). Discuss routine lab issues like equipment and reagent needs/problems, shared responsibilities, upcoming events, new member introductions, safety training and discussions, etc.  If any of this information can be broadcast/coordinated through Slack, we can have shorter in-person meetings. 
-* **Main Event** (~50 min). Meetings will be a Research Update a Round-table. 
-    * **Research Update**: The presenting member will present their research goals, progress, and problems to foster a discussion where ideas and perspectives are exchanged. 
-        **Research Report:** Word document with embedded figures + figure legend that describes the experiment (*Look at examples of figure legends in papers and write a legend with similar content*).  If it's a non-standard experimental approach, consider using a cartoon to show the methods (ProTip: [BioRender](Biorender.com)). Reports don't have to be flawless, but they should be good enough to communicate. Nevertheless, Tiffany is likely to provide critiques of data visualization and written communication. 
-        * As a general rule, we will avoid powerpoint.  Powerpoint presentations feel like a final product and in lab meetings they often set a tone of passive listening (we want critical thinking) or combativeness (your data is wrong!). I want us to collegially critique the data, experiments, hypotheses in order to make the final data strong and robust. 
-    * **Journal Club**. Every 2 weeks, we will have a journal club. 
-        * Please nominate papers by posting them to the #reading_club channel! 
-        * Tiffany will upload the papers to Perusall and put a date on them. 
-        * Everyone can read and annotated the paper on Perusall before the discussion. When reading papers, I encourage everyone to ask themselves some of these [Questions when Critically Reading Papers](https://docs.google.com/document/d/1pINurXGzFupcheqGCibuYJ5FHhhTupOlrRmX4vHb4OI/edit?usp=sharing)    
+* **Main Event** (~50 min). Meetings will be a Research Update or a Round-table. 
+    * **Research Update:** <u>**Word document**</u> with **figures and <u>**figure legends**</u>, tables, and bullet points for key text details.  Preparing your word document lab meeting helps you conceptualize how to move your data from your notebook to a publication. You will develop the skills of communicating research on the page, which is important for grant writing and paper writing. 
+    <br>**Examples can be found in Shared Box.com folder**.  <br>
+    LPlab > 1-shared > 0 - lead your project > Example - lab meeting reports
+    <br>**Guidelines**
+        * Would a reader understand your hypotheses?
+        * Would a reader be able to interpret your results? Tips: Write figure legends that contain the key details that are important for someone to repeat the experiment. (Start paying attention to good experimental biology papers that write effective figure legends and model yourself on good role models)
+        * If you are doing a non-standard experimental approach or a complicated data-analysis approach, consider using a cartoon or flow-chart to show the methods 
+        * When you are graphing your data, do you have a good ratio of text size vs. graph? Tip: Aim to make effective graphs that are concise in size. This is essential for grantsmanship and it helps you prepare publication-quality multi-panel figures. When we publish, the lab has to pay extra $ for longer papers. 
+         * It is okay to include relevant data/figures from the literature if you credit them.
+        * Reports don't have to be flawless, but they should be good enough to communicate. Nevertheless, Tiffany is likely to provide critiques of data visualization and written communication. 
+        * After lab meeting, you should incorporate feedback before you forget it. 
+
+     * When attending lab meeting, be an active participant. Provide written suggestions on how to improve figure legends or make graphs more clear. Give the presenter the written feedback.    
+        
+     * **We will avoid powerpoint**. <br>**Discuss with Tiffany 1 week before your lab meeting** if you think Powerpoint is the best tool for part or all of your presentation.<br> There are times when powerpoint is the best tool or when printing is not feasible, e.g. you are presenting a lot of fluorescence microscopy. However, in that case, try to design a hybrid lab meeting that is mostly on the Word document. 
+     **Why does Tiffany discourage Powerpoint?** 
+        * Powerpoint presentations feel like a final product and in lab meetings they often set a tone of passive listening (we want critical thinking) or combativeness (your data is wrong!). I want us to collegially critique the data, experiments, hypotheses in order to make the final data strong and robust.
+        * By having a printed, linear word document as the agenda, labmates are able to flip back/forward as needed so that they can clarify their confusion and ask questions. 
+        * When you are presenting from a word document, it functions like a meeting with an agenda, and you can take written notes to yourself so that you can incorporate the feedback/critique/suggestions from your presentation. 
+    * **Journal Club**. When organized by members of the lab, we will have a journal club. 
+        * Everyone should read and annotate the paper   before the discussion. 
+        * When reading papers, I encourage everyone to ask themselves some of these [Questions when Critically Reading Papers](https://docs.google.com/document/d/1pINurXGzFupcheqGCibuYJ5FHhhTupOlrRmX4vHb4OI/edit?usp=sharing)    
         * Each discussion will start with each person saying something about the paper (e.g. what they learned, what they didn't understand, something that inspired them).
 
 ### **Ad Hoc lab meetings**  
@@ -462,7 +477,7 @@ The presenter will use Slack to give the lab at least 1 week notice and at least
     
 * **Practice Talk**: If you have an upcoming seminar, conference talk, defense, etc. that is near your presentation slot, you are welcome to use the time to solicit feedback on your talk. This is one of the few times we will allow powerpoints during lab meeting. Please **print slide handouts** (4 or 6 slides / page) for the audience so they can make notes while you present. Presenter will first through the talk (ideally not the first time they have practiced unless they have strong presentation skills). Audience will make notes on the handouts.  Then we will take turns providing constructive criticism: *"XXX did not work for me, consider YYY"* or *"XXX did not work for me.  Does anyone agree, & does anyone know how we could improve it?"* Sometimes its hard to absorb constructive negative criticism in the moment, but try not to be defensive.   
     
-* **Workshops**: If you recently mastered a new (to the lab) research-related technique and you want to teach it to the lab, teach the lab!
+* **Workshops**: If you recently mastered a new (to the lab) research-related technique and you want to teach it to the lab, teach the lab!  (This is often a case when the word document is not the best format for the meetings)
 
 ### Informal meetings
 
