@@ -410,7 +410,7 @@ Being physically present in lab is helpful for learning from others, supporting 
 
 **Evening/Weekend Emails/Slacks**. Respect your labmates work-life balance.  While we're all free to send messages in the evenings/weekends, we are under no obligation to respond to them unless there is a *rare* emergency or deadline. If these crunch times can be anticipated, I will try to coordinate this in advance with you. All this said, I realize that being told you can ignore my messages might not take away the stress of *seeing* my messages if you check Slack in the evenings/weekends. Good news!  You can set quiet hours on Slack so that the application doesn't notify you of a message. Also--you can snooze messages so that you don't forget to respond to questions that I ask you. (I try to do this for your messages too)
 
-While I will sometimes work weekends and holidays, I try to only do that when I want to. Please show me respect by making sure to give me sufficient notice about impending deadlines so that I can get things done for you (e.g. write letters of recommendation, provide feedback on manuscripts/proposals, etc) while maintaining my work/life balance.
+While I will sometimes work weekends and holidays, I try to only do that when I want to. Please show me respect by making sure to give me sufficient notice about impending deadlines so that I can get things done for you (e.g. write  recommendation, provide feedback on manuscripts/proposals, etc) while maintaining my work/life balance.
 
 When I work weekends/holidays, I will avoid entering the lab or otherwise observing whether anyone is working in the lab. I don't want there to be subtle pressure to get *bonus points* because the boss saw you working on the weekend.  That pressure can get toxic, fast. 
 
@@ -522,10 +522,25 @@ If you want feedback on research proposals/statements, teaching statements, or o
 When communicating important hard deadlines with Tiffany, send an organized email that uses formatting (judicious bolding) to convey key points: (1) Deadline, (2) What is needed from Tiffany, (3) Key information that Tiffany needs to do the job well. Consider this practice for any form of professional communication -- grantsmanship, managing a team, managing your manager. It's a transferable skill that will take you far in your career. 
 
 ### Recommendation Letters
+Please request letters via Email, instead of Slack so that I can track the requests better. 
 
-*Please use this form to request letters of recommendation from Tiffany*. https://forms.gle/acmw6UFmv5rHKgbU6
+Strong letters of recommendation are specific and fact-based. To make the letters of recommendation strong, you should prompt your letter writers with key information that they can expand upon in their letter. When requesting a letter, send the following information: 
 
-Strong letters of recommendation are specific and fact-based. The form above will help you remind Tiffany of specific times when you exhibited an important skill or competency. After you fill out the form, let Tiffany know that you requested a Rec letter. 
+* Where are you applying? I get many emails, and finding the specific email to submit a letter is difficult. 
+
+* Due dates. If you are applying for several positions, what is the due date for the earliest letter?
+
+* What is the recommendation for (describe and if possible include a link to the webpage for this opportunity). If you have a draft statement of purpose, include it. 
+
+* How do we know each other (and for how long)?
+
+* Tell me about your educational or career goals. How does this opportunity fits into those goals?
+
+* What positive traits or abilities did you demonstrate in our interactions in class or elsewhere?
+
+* Are there certain ideas or themes you want me to emphasize in your letter? Are there weaknesses in your record that you’d like me to help explain or minimize?
+
+* Remember to attach your current C.V. 
 
 Tiffany will ask postdoc/graduate mentors to co-write letters of recommendation for undergraduate researchers with whom the supervise.  This is professional training for the mentor and will help the letter be stronger and detailed. [Train yourself to minimize implicit bias in your letters.](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters)
 
